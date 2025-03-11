@@ -9,12 +9,5 @@
     "type": "git",
     "url": "git+https://github.com/lucasguerra12/RJ4-modulos-import.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lucasguerra12/RJ4-modulos-import/issues"
-  },
-  "homepage": "https://github.com/lucasguerra12/RJ4-modulos-import#readme",
-  "description": ""
+  "license": "ISC"
 }
