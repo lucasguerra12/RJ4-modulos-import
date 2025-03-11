@@ -1,13 +1,13 @@
 {
-  "name": "rj4-modulos-import",
+  "name": "rj4-modulos-import",  
   "version": "1.0.0",
-  "main": "modulos.js",
+  "main": "modulos.js",  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucasguerra12/RJ4-modulos-import.git"
+    "url": "git+https://github.com/lucasguerra12/RJ4-modulos-import.git"  
   },
-  "license": "ISC"
+  "license": "ISC" 
 }
