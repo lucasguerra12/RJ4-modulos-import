@@ -1,0 +1,20 @@
+{
+  "name": "rj4-modulos-import",
+  "version": "1.0.0",
+  "main": "modulos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasguerra12/RJ4-modulos-import.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasguerra12/RJ4-modulos-import/issues"
+  },
+  "homepage": "https://github.com/lucasguerra12/RJ4-modulos-import#readme",
+  "description": ""
+}
